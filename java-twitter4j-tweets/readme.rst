@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/how-to-post-tweets-using-twitter4j-java-api/
+Please follow the tutorial https://roytuts.com/how-to-post-tweets-using-twitter4j-java-api/
